@@ -1,1 +1,2 @@
-# This repo is used to review C :trollface:
+# 记录下C语言学习过程中遇到的一些问题。
+  src 目录下是源代码
